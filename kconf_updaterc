@@ -1,0 +1,11 @@
+updateInfoAdded=true
+
+[filepicker.upd]
+ctime=1737267597
+done=filepicker-remove-old-previews-entry
+mtime=1706970273
+
+[katesession_migration.upd]
+ctime=1737267597
+done=migrate_kate_sessions_applet_to_kdeplasma-addons
+mtime=1707797004
